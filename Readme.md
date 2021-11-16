@@ -1,1 +1,1 @@
-Olá, esse arquivo irá te ensinar a usar o Git
+Olá, esse arquivo irá me ensinar a usar o Git
